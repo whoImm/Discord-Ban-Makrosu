@@ -37,6 +37,9 @@
 
 # Kullanım
 
+![Demo](https://github.com/whoImm/assembly-calculator/blob/main/demo.gif?raw=true)
+
+
 1. `baslat.bat` dosyasını çalıştırın.
 2. Program kullanılabilir makroları içeren bir menü gösterecek:
    - Otoban Saniye - 0.5sn Beklemeli
