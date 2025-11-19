@@ -37,7 +37,7 @@
 
 # Kullanım
 
-![Demo](https://github.com/whoImm/assembly-calculator/blob/main/demo.gif?raw=true)
+![Demo](https://github.com/whoImm/Discord-Ban-Makrosu/blob/main/demo.gif)
 
 
 1. `baslat.bat` dosyasını çalıştırın.
