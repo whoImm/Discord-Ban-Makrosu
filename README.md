@@ -14,8 +14,8 @@
 ## Özellikler
 | | | |
 | - | - | - |
-| **Otomasyon** | **Güvenlik & Kontrol** | **Arayüz & Kullanıcı Deneyimi** |
-| <table><tr><td>Otomatik Komut</td><td>/yasakla + tab + ID + enter dizisi</td></tr><tr><td>Toplu İşlemler</td><td>Çoklu ID'leri otomatik işleme</td></tr><tr><td>Makro Sistemi</td><td>Özelleştirilebilir komut dizileri</td></tr><tr><td>Zamanlı Gecikmeler</td><td>Her adım arasında 0.5s bekleme</td></tr></table> | <table><tr><td>Güvenlik Gecikmesi</td><td>3 saniye hazırlık penceresi</td></tr><tr><td>Hata Yönetimi</td><td>Kapsamlı hata tespiti</td></tr><tr><td>Hız Kontrolü</td><td>Ayarlanabilir işlem hızı</td></tr><tr><td>Giriş Doğrulama</td><td>ID formatı doğrulaması</td></tr></table> | <table><tr><td>Koyu Tema</td><td>Gri-siyah modern arayüz</td></tr><tr><td>Sayfa Sistemi</td><td>Ana ve bilgi sayfası geçişi</td></tr><tr><td>Türkçe Arayüz</td><td>Tamamen Türkçe kullanıcı arayüzü</td></tr><tr><td>Responsive Tasarım</td><td>600x650 pencere boyutu</td></tr></table> |
+| **Otomasyon** | **Kontrol** | **Arayüz & Kullanıcı Deneyimi** |
+| <table><tr><td>Otomatik Komut</td><td>/yasakla + tab + ID + enter dizisi</td></tr><tr><td>Toplu İşlemler</td><td>Çoklu ID'leri otomatik işleme</td></tr><tr><td>Makro Sistemi</td><td>Özelleştirilebilir komut dizileri</td></tr><tr><td>Zamanlı Gecikmeler</td><td>Her adım arasında 0.5s bekleme</td></tr></table> | <table><tr><td>Kontrol Gecikmesi</td><td>3 saniye hazırlık penceresi</td></tr><tr><td>Hata Yönetimi</td><td>Kapsamlı hata tespiti</td></tr><tr><td>Hız Kontrolü</td><td>Ayarlanabilir işlem hızı</td></tr><tr><td>Giriş Doğrulama</td><td>ID formatı doğrulaması</td></tr></table> | <table><tr><td>Koyu Tema</td><td>Gri-siyah modern arayüz</td></tr><tr><td>Sayfa Sistemi</td><td>Ana ve bilgi sayfası geçişi</td></tr><tr><td>Türkçe Arayüz</td><td>Tamamen Türkçe kullanıcı arayüzü</td></tr><tr><td>Responsive Tasarım</td><td>600x650 pencere boyutu</td></tr></table> |
 ---
 
 
